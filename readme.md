@@ -10,4 +10,13 @@ To run this code, you need to install the following libraries: mediapipe, opencv
 
 the use python to run frame_by_frame_analysis.py
 
-`python3 frame_by_frame_analysis.py`
+`python3 live_stream_analysis.py`
+
+## How to use
+
+Close your fist to start dragging the mouse.
+Open your hand to stop dragging the mouse.
+
+Thumbs up to click.
+Point up for mouse down.
+Open hand for mouse up.
